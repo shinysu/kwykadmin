@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3f50dd7ec2ef8db10162911ef64d69d",
+    "revision": "ef6bb65d04aea4e6736c385087401aa5",
     "url": "/kwykadmin/index.html"
   },
   {
-    "revision": "dca883d716d4b9a8d5ed",
-    "url": "/kwykadmin/static/css/main.0edaa399.chunk.css"
+    "revision": "a4855f24bb85124d823a",
+    "url": "/kwykadmin/static/css/main.43e5db57.chunk.css"
   },
   {
-    "revision": "9defc22ee324b1bd1140",
-    "url": "/kwykadmin/static/js/2.e0c4698d.chunk.js"
+    "revision": "e83343c6db56afd7261e",
+    "url": "/kwykadmin/static/js/2.45169929.chunk.js"
   },
   {
-    "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/kwykadmin/static/js/2.e0c4698d.chunk.js.LICENSE.txt"
+    "revision": "04670e54b7f20baeb4700dd3a6874daa",
+    "url": "/kwykadmin/static/js/2.45169929.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dca883d716d4b9a8d5ed",
-    "url": "/kwykadmin/static/js/main.9ba9a74a.chunk.js"
+    "revision": "a4855f24bb85124d823a",
+    "url": "/kwykadmin/static/js/main.6550c46d.chunk.js"
   },
   {
     "revision": "673e90f157e6fbb3ada3",
